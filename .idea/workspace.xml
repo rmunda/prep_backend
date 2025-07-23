@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="575e2faf-0101-4190-978c-b4fb0664af3e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Screenshot 2025-07-23 200132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Screenshot 2025-07-23 200153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Screenshot 2025-07-23 200243.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Screenshot 2025-07-23 200257.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="575e2faf-0101-4190-978c-b4fb0664af3e" name="Changes" comment="Added readme" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "rmunda"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/rmunda/prep_backend.git",
+    "accountId": "55d97106-59c4-46d3-ac2c-7ef06531d993"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -57,6 +62,19 @@
       <option name="presentableId" value="Default" />
       <updated>1753095196586</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added readme">
+      <option name="closed" value="true" />
+      <created>1753282099470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753282099470</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added readme" />
   </component>
 </project>
